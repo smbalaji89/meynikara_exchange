@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/meynikara_exchange/precache-manifest.e604334b8d86ec60d8c24f5969f4477b.js"
+  "/meynikara_exchange/precache-manifest.46a16b48ab096c6c3e0e5d1f427f80e2.js"
 );
 
 workbox.clientsClaim();

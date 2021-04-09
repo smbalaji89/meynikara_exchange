@@ -1,7 +1,7 @@
 {
   "main.css": "/meynikara_exchange/static/css/main.1052e9e5.chunk.css",
-  "main.js": "/meynikara_exchange/static/js/main.860337db.chunk.js",
-  "main.js.map": "/meynikara_exchange/static/js/main.860337db.chunk.js.map",
+  "main.js": "/meynikara_exchange/static/js/main.d78202a3.chunk.js",
+  "main.js.map": "/meynikara_exchange/static/js/main.d78202a3.chunk.js.map",
   "static/css/1.2b87c278.chunk.css": "/meynikara_exchange/static/css/1.2b87c278.chunk.css",
   "static/js/1.3ebf84af.chunk.js": "/meynikara_exchange/static/js/1.3ebf84af.chunk.js",
   "static/js/1.3ebf84af.chunk.js.map": "/meynikara_exchange/static/js/1.3ebf84af.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.2b87c278.chunk.css.map": "/meynikara_exchange/static/css/1.2b87c278.chunk.css.map",
   "static/css/main.1052e9e5.chunk.css.map": "/meynikara_exchange/static/css/main.1052e9e5.chunk.css.map",
   "index.html": "/meynikara_exchange/index.html",
-  "precache-manifest.e604334b8d86ec60d8c24f5969f4477b.js": "/meynikara_exchange/precache-manifest.e604334b8d86ec60d8c24f5969f4477b.js",
+  "precache-manifest.46a16b48ab096c6c3e0e5d1f427f80e2.js": "/meynikara_exchange/precache-manifest.46a16b48ab096c6c3e0e5d1f427f80e2.js",
   "service-worker.js": "/meynikara_exchange/service-worker.js"
 }
