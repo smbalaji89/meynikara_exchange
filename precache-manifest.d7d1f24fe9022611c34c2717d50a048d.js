@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d78202a39cb4dc25511d",
+    "revision": "672605b3726c44141246",
     "url": "/meynikara_exchange/static/css/main.1052e9e5.chunk.css"
   },
   {
-    "revision": "d78202a39cb4dc25511d",
-    "url": "/meynikara_exchange/static/js/main.d78202a3.chunk.js"
+    "revision": "672605b3726c44141246",
+    "url": "/meynikara_exchange/static/js/main.672605b3.chunk.js"
   },
   {
     "revision": "3ebf84af629a1d0a7339",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/meynikara_exchange/static/js/runtime~main.5be5a0cc.js"
   },
   {
-    "revision": "7ed3dbc9bbe2bdc4812bd88da1a23c4d",
+    "revision": "37cfa139b47fcfb5fad15ef73b52dd3e",
     "url": "/meynikara_exchange/index.html"
   }
 ];
